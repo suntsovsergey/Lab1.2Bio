@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=lab1.1
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/lab1.1
+CND_ARTIFACT_NAME_Debug=lab1.2bio
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/lab1.2bio
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=lab1.1.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/lab1.1.tar
+CND_PACKAGE_NAME_Debug=lab1.2bio.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/lab1.2bio.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=lab1.1
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/lab1.1
+CND_ARTIFACT_NAME_Release=lab1.2bio
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/lab1.2bio
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=lab1.1.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/lab1.1.tar
+CND_PACKAGE_NAME_Release=lab1.2bio.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/lab1.2bio.tar
 #
 # include compiler specific variables
 #

@@ -29,8 +29,8 @@ int number_pattern(string str, string pattern){
 
 int main(int argc, char** argv) {
 
-    ifstream input_file("/Users/macbookpro/NetBeansProjects/Lab1.1/Input.txt");
-    ofstream output_file("/Users/macbookpro/NetBeansProjects/Lab1.1/Output.txt");
+    ifstream input_file("Input.txt");
+    ofstream output_file("Output.txt");
     string str ;
     string string_length;
     string result;
